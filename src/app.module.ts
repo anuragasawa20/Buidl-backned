@@ -13,10 +13,10 @@ import { Movie } from './movie/entities/movie.entity';
       type: 'postgres',
       host: 'localhost',
       port: 5432,
-      password: '1234', // your_password
-      username: 'postgres', // your_username
+      password: '', // your_password
+      username: '', // your_username
       entities: [User, Movie],
-      database: 'Buidl', // your DB name
+      database: '', // your DB name
       synchronize: true,
       logging: true,
     }),
