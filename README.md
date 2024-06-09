@@ -1,3 +1,8 @@
+
+There to run this repo in local this should add the db of your postgres local with userName and password in app.module.ts 
+
+all the API's are present in Postman https://www.postman.com/axlegaming/workspace/buidl-assignment/collection/28898766-6aad9d0b-7968-4647-adc0-85c61e39ad87?action=share&creator=28898766
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
